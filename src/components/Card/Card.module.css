@@ -1,0 +1,39 @@
+.container{
+    border:3px solid goldenrod;
+    background-color: rgb(169, 241, 155);
+    border-radius: 15px;
+    width: 180px;
+    padding: 12px;
+    box-shadow: 0 0 13px black;
+    border-color: darkgoldenrod;
+
+
+}
+
+.image{
+    width: 170px;
+}
+
+.buttonContainer{
+    
+    display: flex;
+    justify-content: flex-end;
+}
+
+.buttonContainer button{
+    background-color: crimson;
+    color:aliceblue;
+    border:0px;
+    border-radius: 3px;
+}
+
+.dataContainer{
+    text-align: center;
+    padding: 11px;
+}
+
+.dataContainer h2 {
+    margin: 3px;
+    font-size: 22px;
+    color:rgb(28, 7, 146)
+}
